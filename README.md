@@ -1,8 +1,12 @@
-# AI Product Portfolio / AIプロダクト作品集
+## Chen｜AIプロダクトマネージャー志望 / Aspiring AI Product Manager
 
-実際に使いながら改善してきた2つのAI支援プロジェクトです。**私は要件定義、情報設計、受け入れ確認、改善判断を担当しました。** コード生成にはAIコーディングツールを使用しています。
+修士課程在学中・2027年9月修了予定
 
-Two projects developed and refined through real use. **I owned requirements, information design, acceptance review, and iteration decisions.** Code was generated with AI coding tools.
+Master’s student · Expected graduation: September 2027
+
+日常の課題を起点に、AIを活用したツールを作り、実際に使いながら改善しています。要件定義・情報設計・受け入れ確認・改善の優先順位付けを担当し、実装にはAIコーディングツールを活用しています。
+
+I build and refine AI-assisted tools to solve everyday problems. I own requirements, information design, acceptance review, and prioritization, using AI coding tools for implementation.
 
 ## Projects
 
