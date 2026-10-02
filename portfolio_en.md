@@ -1,10 +1,12 @@
 # AI Product Portfolio
 
-I owned requirements, information design, acceptance review, and iteration decisions for these AI-assisted projects. Each project has its own case study, evidence, and screenshots.
+I own requirements, information design, acceptance review and prioritization. Code was generated with AI coding tools. Each project has a separate case study.
 
-| Project | Product decision | Verified usage | Case study |
-|---|---|---|---|
-| Shukatsu OS | Connect research → source-linked material → ES revision → interview prep within each company/project | 215 message records; 166 companies / 243 opportunities | [Read case study](https://github.com/YAEnyanyako/shukatsu-os-showcase/blob/main/docs/case-study.en.md) |
-| Kotobacho | Start with a video, then learn and review in context | 8 videos / 147 words in the predecessor learning workflow | [Read case study](https://github.com/YAEnyanyako/kotobacho/blob/main/docs/case-study.en.md) |
+| Project | Problem addressed | Case study |
+|---|---|---|
+| Shukatsu OS | Turns scattered job-search notices into per-company, per-opening next actions, with the evidence attached | [Read case study](https://github.com/YAEnyanyako/shukatsu-os-showcase/blob/main/docs/case-study.en.md) |
+| Kotobacho | Starts learning from a video and connects vocabulary review to its source scene | [Read case study](https://github.com/YAEnyanyako/kotobacho/blob/main/docs/case-study.en.md) |
 
-Single-user records audited Sep 27, 2026. Public screenshots use fictional data.
+Public screens use fictional samples. Personal profiles and private usage counts are not published here.
+
+[Portfolio home](README.md) · [日本語](portfolio_ja.md)

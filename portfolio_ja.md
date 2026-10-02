@@ -1,10 +1,12 @@
 # AIプロダクト作品集
 
-AI支援による2つのプロジェクトで、要件定義、情報設計、受け入れ確認、改善判断を担当しました。詳細・根拠・画面は各プロジェクトのケーススタディにまとめています。
+要件定義、情報設計、受け入れ確認、改善の優先順位付けを担当しています。コードはAIコーディングツールで生成しています。詳細は各プロジェクトのケーススタディへ。
 
-| プロジェクト | 設計判断 | 確認した利用規模 | ケーススタディ |
-|---|---|---|---|
-| Shukatsu OS | 研究 → 出典付き素材 → ES改善 → 面接準備を会社／募集単位で連携 | 215件のメッセージ、166社・243件の募集／イベント | [詳細を読む](https://github.com/YAEnyanyako/shukatsu-os-showcase/blob/main/docs/case-study.ja.md) |
-| Kotobacho | 動画から学習を開始し、文脈付きの単語を復習 | 前身の学習フローで8動画・147語 | [詳細を読む](https://github.com/YAEnyanyako/kotobacho/blob/main/docs/case-study.ja.md) |
+| プロジェクト | 解決する問題 | ケーススタディ |
+|---|---|---|
+| Shukatsu OS | 散らばった就活の通知を会社・募集ごとに整理し、根拠つきで次にやることを示す | [詳細を読む](https://github.com/YAEnyanyako/shukatsu-os-showcase/blob/main/docs/case-study.ja.md) |
+| Kotobacho | 動画から学習を始め、出典に戻れる単語帳で復習する | [詳細を読む](https://github.com/YAEnyanyako/kotobacho/blob/main/docs/case-study.ja.md) |
 
-本人1名の利用記録、2026年9月27日集計。公開画面は架空のサンプルです。
+公開画面は架空のサンプルです。個人プロフィールや私用の利用件数は掲載しません。
+
+[作品集の入口](README.md) · [English](portfolio_en.md)
